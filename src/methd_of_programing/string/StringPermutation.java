@@ -10,14 +10,14 @@ package methd_of_programing.string;
 public class StringPermutation {
 
     public static void main(String[] args){
-        char[] s = {'a','b','c','d'};
+        char[] s = {'a','b','c'};
         //递归
         System.out.println("递归法:");
-        recursionMethod(s, 0, 3);
+        recursionMethod(s, 0, 2);
 
         //字典序
-        System.out.println("字典排序");
-        dicSortMethod(s);
+       // System.out.println("字典排序");
+       // dicSortMethod(s);
     }
 
 
@@ -33,6 +33,8 @@ public class StringPermutation {
             return;
         }
         if (from == to){
+            //String s = Arrays.toString(ch);
+
             System.out.println(ch);
         }else {
             for(int i=from; i<=to; i++) {
