@@ -69,7 +69,16 @@ public class StringDemo {
 
 
 
+        System.out.println(new StringDemo().find(6));
 
+    }
 
+    int find(int n){
+        if (n <= 0){
+            return 0;
+        }else if(n > 0 && n <= 2){
+            return 1;
+        }
+        return find(n-1)+find(n-2);
     }
 }

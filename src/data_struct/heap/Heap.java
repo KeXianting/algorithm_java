@@ -37,11 +37,13 @@ public class Heap {
             i=i/2;   //更新索引
         }
     }
+
     private void shiftDown(int k){
-        while((2*k)<=count){     //有左子节点
+        //第一次循环对最后一个非叶子节点循环
+        while((2*k)<=count){     //有左子节点,2*k为当前非叶子节点的左孩子
             int j=2*k;      //这轮循环,data[k]和data[j]交换位置
-            if((j+1)<=count&&(data[j+1]>data[j])){ //有右子节点且右边的更大
-                j+=1;
+            if((j+1)<=count&&(data[j+1]>data[j])){ //有右子节点且右边的更大,j+1为右孩子下标
+                j+=1;//右孩子下标
             }
             if(data[k]>=data[j])  //如果父节点大于等于子节点,则停止循环
                 break;

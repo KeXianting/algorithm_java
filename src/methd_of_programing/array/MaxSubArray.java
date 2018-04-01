@@ -16,6 +16,9 @@ public class MaxSubArray {
 
         System.out.println("动态规划:"+ maxSubArrayMethod2(a));
 
+
+      //  System.out.println("改进暴力法: " + maxSubArrayMethod3(a));
+
     }
 
     //方法1:暴力解决
@@ -37,7 +40,22 @@ public class MaxSubArray {
         return maxSum;
     }
 
-    //方法2:动态规划
+//    public static int maxSubArrayMethod3(int[] arr){
+//        int len = arr.length;
+//        int maxSum = Integer.MIN_VALUE;
+//        for (int i = 0; i < len; i ++){
+//            int sum = 0;
+//            for (int j = i; j < len; j++){
+//                sum += arr[i];
+//                if (sum > maxSum){
+//                    maxSum = sum;
+//                }
+//            }
+//        }
+//        return maxSum;
+//    }
+
+    //方法2:动态规划: currentSum=max{a[i], currentSum[i-1]+a[i]}
     public static int maxSubArrayMethod2(int[] arr){
         int currentSum = 0;
         int maxSum = arr[0];
