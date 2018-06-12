@@ -1,6 +1,6 @@
 package test;
 
-import java.util.Scanner;
+import java.io.*;
 
 /**
  * Created by kentorvalds on 2017/6/5.
@@ -48,13 +48,22 @@ public class TestMain {
 //
 //        }
 
-        Scanner scan = new Scanner(System.in);
-        System.out.println("请输入一个字符串:");
-        System.out.println("您输入的字符串是:" + scan.next());
+//        Scanner scan = new Scanner(System.in);
+//        System.out.println("请输入一个字符串:");
+//        System.out.println("您输入的字符串是:" + scan.next());
 
 //        BufferedReader buffer = new BufferedReader(new InputStreamReader(System.in));
 //        System.out.println("请输入一串字符串");
 //        String text = buffer.readLine();
 //        System.out.println("您输入的字符串是:" + text);
+
+        ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("seriliable"));
+        oos.writeObject(SingletonDemo.getInstance());
+
+        File file = new File("seriliable");
+        ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file));
+        SingletonDemo singletonDemo = (SingletonDemo)ois.readObject();
+
+        System.out.println(singletonDemo == SingletonDemo.getInstance());
     }
 }

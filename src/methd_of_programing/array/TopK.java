@@ -72,7 +72,7 @@ public class TopK {
     }
     public static void main(String[] args) {
         int a[] = { 4, 3, 5, 1, 2,8,9,10};
-        int result[] = getTopKByHeap(a, 3);
+        int result[] = getTopKByHeap(a, 4);
         for (int temp : result) {
             System.out.println(temp);
         }

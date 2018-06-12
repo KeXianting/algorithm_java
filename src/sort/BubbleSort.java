@@ -15,7 +15,7 @@ public class BubbleSort {
 
 		//Dictionary<String, Integer> dictionary = new Hashtable<>();
 	}
-	void sort(int num[]){
+	public static void sort(int num[]){
 		int Length= num.length;
 		for(int i=0;i<Length-1;i++){
 			for(int j=0;j<Length-i-1;j++){

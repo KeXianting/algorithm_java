@@ -27,7 +27,7 @@ public class MainEnum {
         }
 
 
-        //枚举类的鼓噪函数
+        //枚举类的构造函数
         EnumTest test = EnumTest.GREEN;
         System.out.println("========构造函数:");
         test.testConstructor();

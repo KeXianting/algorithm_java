@@ -19,7 +19,7 @@ public class RadixSort {
 
 		//System.out.println(Math.pow(10, 3)%10);
 	}
-	void sort(int []array){
+	public static void sort(int []array){
 		//1.找出数组array中最大值
 		int max = findMax(array);
 		int time = 0; //time记录最大数的位数
@@ -27,10 +27,8 @@ public class RadixSort {
 			max/=10;
 			time++;
 		}
-		//System.out.println("time " + time);
 		//2.每位数都是从0到9
 		LinkedList<Integer> queue[]=new LinkedList[10];
-		//LinkedList<Integer>[] test = new LinkedList[20];
 		for(int i=0;i<10;i++){
 			queue[i]=new LinkedList<>(); //为每位数申请一个list空间
 		}
@@ -44,13 +42,6 @@ public class RadixSort {
 				queue[array[j]/(int)Math.pow(10, i)%10].add(array[j]);
 				//queue[0]存储个位为0的所有数, queue[1]存储个位为1的所有数
 			}
-			//System.out.println("***********");
-//			for (int ii = 0; ii < 10; ii ++){
-//				for (Integer jj:queue[ii]){
-//					System.out.println(jj);
-//				}
-//				System.out.println("========*****");
-//			}
 			//3.2 按照位数重新组织数列(先按个位, 然后十位,...)
 			int count = 0;
 			for(int k=0;k<10;k++){
@@ -58,19 +49,12 @@ public class RadixSort {
 					array[count++]=queue[k].remove(); //返回queue[k]的第一个元素给array[0]
 				}
 			}
-
-			System.out.println("***********");
-			for (int j = 0; j < array.length; j ++){
-				System.out.println(array[j]);
-			}
-
-
 		}
 
 
 	}
 
-	public int findMax(int[] array) {
+	public static int findMax(int[] array) {
 		int max = 0;
 		for(int j=0;j<array.length;j++){
 			if(array[j]>array[max]){

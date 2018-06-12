@@ -105,7 +105,7 @@ public class MinHeap<T extends Comparable<T>> {
      */
     public void insert(T data) {
         int size = mHeap.size();
-
+        //System.out.println("size: " + size);
         mHeap.add(data);	// 将"数组"插在表尾
         filterup(size);		// 向上调整堆
     }

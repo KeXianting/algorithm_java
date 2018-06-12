@@ -10,16 +10,24 @@ public class StringToInt {
 
     public static void main(String[] args){
 
-        int a = strToIntMethodOne("1234");
-        System.out.println("正数的值为: " + a);
+        try {
+            //System.out.println(2+('1'-'0'));
+            int a = strToIntMethodOne("12b3a4");
+            System.out.println("正数的值为: " + a);
 
-        int b = strToIntMethodOne("-1234");
-        System.out.println("负数为: " + b);
+            int b = strToIntMethodOne("-1234");
+            System.out.println("负数为: " + b);
+        }catch (Exception e) {
+            e.printStackTrace();
+        }
+
+
+
     }
 
     //前导字符是+或-或者没有
     //数字不能整数能表示的最大或最小数。如果超过就返回对应的最小或者最小的值。
-    public static int strToIntMethodOne(String s){
+    public static int strToIntMethodOne(String s)throws Exception{
 
         if (s == null || s.length() == 0){
            // throw new NumberFormatException("Invalid input string: " + s);
@@ -70,13 +78,17 @@ public class StringToInt {
     }
 
 
-    public static int cal(String s, int start, boolean positive){
+    public static int cal(String s, int start, boolean positive)throws Exception{
 
         long result = 0;
 
         while ((start < s.length()) && (s.charAt(start) >= '0') && (s.charAt(start) <= '9')){
+            if(Character.isDigit(s.charAt(start))){//判断是否为数字
+                System.out.println("bbb");
+                throw new Exception("wrong string");
+            }
             result = result*10 + (s.charAt(start) - '0');
-
+            //System.out.println("aa: " + result);
             if (positive) { // 如果是正数
                 if (result > Integer.MAX_VALUE) {
 //                    throw new NumberFormatException("Invalid input string: " + str);

@@ -2,14 +2,16 @@ package sort;
 
 //希尔排序
 public class ShellSort {
+
 	public static void main(String[] args) {
 		int num[] = { 3, 1, 5, 4, 123, 55, 33, 123 };
 		new ShellSort().sort(num);
 		for (int n : num) {
 			System.out.print(n + " ");
 		}
+
 	}
-	void sort(int num[]){
+	public static void sort(int num[]){
 		int N = num.length;
 		int gap = 1;
 		while(gap<N/2) gap = 2*gap+1;

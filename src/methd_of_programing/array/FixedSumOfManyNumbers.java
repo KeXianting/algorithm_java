@@ -14,6 +14,7 @@ import java.util.Queue;
  *
  */
 public class FixedSumOfManyNumbers {
+     
     private static int[] res = new int[100];
     private static int k = 0;
     private static ArrayList<Integer> list = new ArrayList<>();

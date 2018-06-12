@@ -29,6 +29,8 @@ public class LogAnalysis {
         bw.flush();
         fw.close();
         bw.close();
+
+
     }
 
     // 分割日志文件

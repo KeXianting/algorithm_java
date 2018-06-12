@@ -7,6 +7,7 @@ public class CountingSort {
 
     public static void main(String[] args) {
 
+
         //首位加0，同步伪代码
         int[] A = {8,3,5,1,2,7,4,3,2,1,6,7,2,0};
         System.out.println("排序前:");
@@ -19,6 +20,8 @@ public class CountingSort {
         for(int i:B) {
             System.out.print(i + " ");
         }
+
+
     }
 
 

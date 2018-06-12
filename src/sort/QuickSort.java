@@ -8,11 +8,13 @@ package sort;
  */
 public class QuickSort {
 	public static void main(String[] args) {
-		int num[] = {7,6,5,10,4,4,3,2,1 };
+		//int num[] = {7,6,5,10,4,4,3,2,1 };
+		int[] num = {38,65,97,76,13,27,49};
 		System.out.println("初始数组:==============================");
 		for (int n : num) {
 			System.out.print(n + " ");
 		}
+		System.out.println();
 		new QuickSort().sort(num, 0, num.length-1);//
 		System.out.println("快速排序的结果:=========================");
 		for (int n : num) {
@@ -26,6 +28,7 @@ public class QuickSort {
 //		for (int n : num1) {
 //			System.out.print(n + " ");
 //		}
+
 	}
 
 	public static void sort(int num[], int left, int right) {

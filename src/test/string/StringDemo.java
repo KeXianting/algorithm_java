@@ -69,7 +69,7 @@ public class StringDemo {
 
 
 
-        System.out.println(new StringDemo().find(6));
+        //System.out.println(new StringDemo().find(6));
 
     }
 
