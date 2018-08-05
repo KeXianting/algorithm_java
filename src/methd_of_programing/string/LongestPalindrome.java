@@ -9,12 +9,29 @@ package methd_of_programing.string;
 public class LongestPalindrome {
 
     public static void main(String[] args){
-        System.out.println("中心扩展法:" + longestPalindromeMethod1("eABCCBAg"));//babcbabcbaccba
 
-        System.out.println("Mancher法:" + longestPalindromeMethod2("xeABCCBAg"));//babcbabcbaccba
+//        System.out.println("中心扩展法:" + longestPalindromeMethod1("eABCCBAg"));//babcbabcbaccba
+//
+//        System.out.println("Mancher法:" + longestPalindromeMethod2("xeABCCBAg"));//babcbabcbaccba
+//
+//        System.out.println("动态规划法: " + longestPalindromeMethod3("xeABCCBAg"));
+     System.out.println(reverse(Integer.MAX_VALUE));
+        System.out.println(Integer.MAX_VALUE);
+    }
 
-        System.out.println("动态规划法: " + longestPalindromeMethod3("xeABCCBAg"));
-
+    public static int reverse(int x) {
+        if(x==Integer.MIN_VALUE)
+            return 0;
+        //为什么不判断Integer.MAX_VALUE, 因为[−2^31,  2^31 − 1]最小值转换后会超过Integer的范围, 但是最大值转换后不回
+        int num = Math.abs(x);
+        int res = 0;
+        while(num!=0){
+            if(res>(Integer.MAX_VALUE-num%10)/10)//非常巧妙的判断了越界问题
+                return 0;//转换后越界返回0
+            res = res*10+num%10;
+            num /= 10;
+        }
+        return x>0?res:-res;
     }
 
     //中心扩展法:因为回文字符串是以中心轴对称的，所以如果我们从下标 i 出发，用2个指针向 i 的两边扩展判断是否相等，那么只需要对0到

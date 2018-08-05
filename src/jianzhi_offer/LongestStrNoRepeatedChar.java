@@ -11,7 +11,16 @@ import java.util.Map;
 public class LongestStrNoRepeatedChar {
 
     public static void main(String[]args){
-        System.out.println(getLongestSubString("arabcacfre"));
+        //System.out.println(getLongestSubString("arabcacfre"));
+       int m = new LongestStrNoRepeatedChar().testR(5);
+        System.out.println(m);
+    }
+
+    public int testR(int n){
+        if (n < 2){
+            return n;
+        }
+        return testR(n-1) + testR(n-2);
     }
 
     //动态规划
