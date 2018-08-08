@@ -10,8 +10,8 @@ public class PrintNumberFrom1ToN {
     public static void main(String[] args){
         System.out.println("test:");
         String str = "123";
-        System.out.println(str.charAt(1) - '0');
-        //Print1ToMaxOfNDigits(1);
+        //System.out.println(str.charAt(1) - '0');
+        Print1ToMaxOfNDigits(3);
     }
 
     public static void Print1ToMaxOfNDigits(int n){
