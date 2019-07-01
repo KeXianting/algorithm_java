@@ -6,8 +6,14 @@ import java.util.Scanner;
  * Created by kentorvalds on 2018/8/11.
  */
 public class Wangyi {
-    public static void main(String[] arg){
+    public static void main(String[] arg) {
         Scanner in = new Scanner(System.in);
+        int s[]={3,20,1},
+                f[]={10,30,3};
+        boolean[] A = new boolean[3];
+        GreedySelector(3,s,f,A);
+        for(int i=0;i<3;i++)
+            System.out.println(A[i]);
 //        while (in.hasNext()){
 //            int n = in.nextInt();
 //            int k = in.nextInt();
@@ -79,42 +85,48 @@ public class Wangyi {
 //            }
 //            System.out.println(result+maxSumK);
 //        }
-        StringBuilder sb = new StringBuilder();
-        sb.append("aa");
-
-        while (in.hasNext()){
-            int n = in.nextInt();
-            int[] a = new int[n];
-            for (int i = 0; i < n; i ++){
-                a[i] = in.nextInt();
-            }
-            int m = in.nextInt();
-            int[] b = new int[m];
-            for (int i = 0; i < m; i ++){
-                b[i] = in.nextInt();
-            }
-            for (int i = 0; i < m; i ++ ){
-                int res = 0;
-                int sum = a[0];
-                for (int j = 1; j < n; j ++){
-                    if (b[i] > sum){
-                        sum = sum + a[j];
-                        res = j + 1;
-                        if (j == n){
-                            break;
-                        }
-                    }else {
-                        res = j;
-                        break;
-                    }
-                }
-                System.out.println(res);
-            }
-        }
 
 
-    }
+//        StringBuilder sb = new StringBuilder();
+//        sb.append("aa");
+//        HashSet<Integer> set = new HashSet();
+//        set.add(2);set.size();
 
+//            System.out.println(set.toString());
+//        }
+//        while (in.hasNext()){
+//            int n = in.nextInt();
+//            int[] a = new int[n];
+//            for (int i = 0; i < n; i ++){
+//                a[i] = in.nextInt();
+//            }
+//            int m = in.nextInt();
+//            int[] b = new int[m];
+//            for (int i = 0; i < m; i ++){
+//                b[i] = in.nextInt();
+//            }
+//            for (int i = 0; i < m; i ++ ){
+//                int res = 0;
+//                int sum = a[0];
+//                for (int j = 1; j < n; j ++){
+//                    if (b[i] > sum){
+//                        sum = sum + a[j];
+//                        res = j + 1;
+//                        if (j == n){
+//                            break;
+//                        }
+//                    }else {
+//                        res = j;
+//                        break;
+//                    }
+//                }
+//                System.out.println(res);
+//            }
+//        }
+//
+//
+//    }
+//
 
 //
 //    int main() {
@@ -137,4 +149,21 @@ public class Wangyi {
 //            cout << res << endl;
 //            return 0;
 //    }
+    }
+
+    static void GreedySelector(int n,int s[],int f[],boolean A[])
+    {
+        A[0]=true;  //将第一个活动添加进去
+        int index=0;
+        for(int i=1;i<n;i++)
+        {
+            if(s[i]>=f[index])
+            {
+                A[i]=true;
+                index=i;
+            }
+            else A[i]=false;
+        }
+    }
+
 }

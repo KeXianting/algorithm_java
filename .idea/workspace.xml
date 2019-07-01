@@ -2,10 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec2af785-588a-4416-a9a4-ca883dfec1f2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Wangyi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/GenerateParentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/ValidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HUANJU/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/AIQIYI/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/AIQIYI/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/JD/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/JD/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/LongestValidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Meituan/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Meituan/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/SearchRotatedSortedArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/TMD/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Tencent/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Tencent/Question3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/XIAOMI/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/XunLei/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/XunLei/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/XunLei/TestMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/beike/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/beike/Main1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/beike/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/beike/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/beike/Question3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/toutiao/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/wangyi/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/wanmei/MathContest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/wanmei/SavePrincess.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/xiecheng/Question1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jianzhi_offer/xiecheng/Question2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/NextPermutation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/SubstringConcatenationWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/SimulatorState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-job/jianzhi_offer/Wangyi.class" afterPath="$PROJECT_DIR$/out/production/algorithm-job/jianzhi_offer/Wangyi.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-job/methd_of_programing/array/TopK.class" afterPath="$PROJECT_DIR$/out/production/algorithm-job/methd_of_programing/array/TopK.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-job/methd_of_programing/string/StringToInt.class" afterPath="$PROJECT_DIR$/out/production/algorithm-job/methd_of_programing/string/StringToInt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/algorithm-job/sort/QuickSort.class" afterPath="$PROJECT_DIR$/out/production/algorithm-job/sort/QuickSort.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jianzhi_offer/Wangyi.java" afterPath="$PROJECT_DIR$/src/jianzhi_offer/Wangyi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/methd_of_programing/array/TopK.java" afterPath="$PROJECT_DIR$/src/methd_of_programing/array/TopK.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/methd_of_programing/string/StringToInt.java" afterPath="$PROJECT_DIR$/src/methd_of_programing/string/StringToInt.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sort/QuickSort.java" afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" />
     </list>
     <ignored path="algorithm-job.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,84 +74,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RepeatedNumberInArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/RepeatedNumberInArray.java">
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <caret line="566" column="23" selection-start-line="566" selection-start-column="23" selection-end-line="566" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OneShowTimes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/OneShowTimes.java">
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/XunLei/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OnlyOneRepeated.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/OnlyOneRepeated.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintNumberFrom1ToN.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/PrintNumberFrom1ToN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Wangyi.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/Wangyi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4676409">
-              <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/ValidParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenerateParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/GenerateParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#432#440#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchNumberInMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/SearchNumberInMatrix.java">
+      <file leaf-file-name="JosephRemoveM.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/methd_of_programing/array/JosephRemoveM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30088496">
+              <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HUANJU/Question1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/AIQIYI/Question2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/JD/Question2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountingSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/CountingSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RadixSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/RadixSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -139,57 +192,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/StringReverse.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/OrderFiveInPork.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/DeleteNode.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/HH2.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/StringCutContainChinese.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/ProbabilityOfFixedSum.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/HH1.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/BlackFriday.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/MiniElementInStack.java" />
-        <option value="$PROJECT_DIR$/src/methd_of_programing/array/FixedSumOfManyNumbers.java" />
-        <option value="$PROJECT_DIR$/src/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/sort/RadixSort.java" />
-        <option value="$PROJECT_DIR$/src/sort/BucketSort.java" />
-        <option value="$PROJECT_DIR$/src/sort/CountingSort.java" />
-        <option value="$PROJECT_DIR$/src/test/TestMain.java" />
-        <option value="$PROJECT_DIR$/src/test/SingletonDemo.java" />
-        <option value="$PROJECT_DIR$/src/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/test/SerializableDemo/SerializableDemo.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/Test.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/RebuildBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/NextNodeInBinary.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/SubStructBinary.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/MirrorBinary.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/SymmetricalBinary.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/VerifySquenceOfBST.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/FixedSumInBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/MaxDistanceInBinary.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/ZhiziPrintBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/PrintBinaryTreeUpToDown.java" />
-        <option value="$PROJECT_DIR$/src/methd_of_programing/big_data/LogAnalysis.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/RBTree.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/ComplexListClone.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/MaxValueInWindow.java" />
-        <option value="$PROJECT_DIR$/src/sort/Utils.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/JianShengzi.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/SpaceReplace.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/PatternMatch.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/StringOfNumber.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/SearchNumberInMatrix.java" />
-        <option value="$PROJECT_DIR$/src/jianzhi_offer/MinimumInRotationArray.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MorseCode.java" />
         <option value="$PROJECT_DIR$/src/methd_of_programing/niuke/BiggerThanPro.java" />
         <option value="$PROJECT_DIR$/src/jianzhi_offer/LongestStrNoRepeatedChar.java" />
         <option value="$PROJECT_DIR$/src/methd_of_programing/string/LongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/methd_of_programing/string/StringToInt.java" />
         <option value="$PROJECT_DIR$/src/jianzhi_offer/RepeatedNumberInArray.java" />
         <option value="$PROJECT_DIR$/src/jianzhi_offer/PrintNumberFrom1ToN.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/leetcode/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SubstringConcatenationWords.java" />
         <option value="$PROJECT_DIR$/src/jianzhi_offer/Wangyi.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/beike/Main1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/beike/Main.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/LongestValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/SearchRotatedSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/toutiao/Main.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/wanmei/SavePrincess.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/wanmei/MathContest.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question3.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question4.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question2.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question1.java" />
+        <option value="$PROJECT_DIR$/src/methd_of_programing/array/NetherlandsFlag.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/beike/Question2.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/beike/Question3.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/beike/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/xiecheng/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/xiecheng/Question2.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/Meituan/Question2.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/Meituan/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/wangyi/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/JD/Question2.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/JD/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question3.java" />
+        <option value="$PROJECT_DIR$/src/methd_of_programing/string/StringToInt.java" />
+        <option value="$PROJECT_DIR$/src/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question2.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/XunLei/Question2.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/XunLei/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/AIQIYI/Question2.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/AIQIYI/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/Tencent/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/Tencent/Question3.java" />
+        <option value="$PROJECT_DIR$/src/methd_of_programing/array/TopK.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question4.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/XIAOMI/Question1.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/XunLei/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi_offer/TMD/Question1.java" />
+        <option value="$PROJECT_DIR$/src/test/SimulatorState.java" />
+        <option value="$PROJECT_DIR$/src/test/Test.java" />
       </list>
     </option>
   </component>
@@ -238,7 +291,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -270,8 +322,22 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="algorithm-job" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm-job" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jianzhi_offer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,47 +355,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="jianzhi_offer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm-job" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm-job" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SerializableDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm-job" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm-job" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="TMD" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,7 +377,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sort" />
+              <option name="myItemId" value="jianzhi_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JD" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,7 +399,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="methd_of_programing" />
+              <option name="myItemId" value="jianzhi_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DIANXIN" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -383,11 +421,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="methd_of_programing" />
+              <option name="myItemId" value="jianzhi_offer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tree" />
+              <option name="myItemId" value="beike" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -405,13 +443,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
+              <option name="myItemId" value="jianzhi_offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AIQIYI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm-job" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm-job" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HUANJU" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -441,15 +502,15 @@
       <recent name="$PROJECT_DIR$/src/data_struct/array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenerateParentheses">
-    <configuration default="false" name="RepeatedNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="false" name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="jianzhi_offer.XIAOMI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.RepeatedNumberInArray" />
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.XIAOMI.Question1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -462,14 +523,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="PrintNumberFrom1ToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="jianzhi_offer.XunLei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.PrintNumberFrom1ToN" />
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.XunLei.TestMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -482,14 +543,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Wangyi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="JosephRemoveM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="jianzhi_offer.*" />
+          <option name="PATTERN" value="methd_of_programing.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.Wangyi" />
+      <option name="MAIN_CLASS_NAME" value="methd_of_programing.array.JosephRemoveM" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -502,14 +563,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Question1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="jianzhi_offer.TMD.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.ValidParentheses" />
+      <option name="MAIN_CLASS_NAME" value="jianzhi_offer.TMD.Question1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -522,14 +583,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.GenerateParentheses" />
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -938,19 +999,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RepeatedNumberInArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PrintNumberFrom1ToN" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Wangyi" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ValidParentheses" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GenerateParentheses" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Question1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.JosephRemoveM" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Question1 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GenerateParentheses" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ValidParentheses" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Wangyi" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PrintNumberFrom1ToN" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RepeatedNumberInArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Question1 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JosephRemoveM" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestMain" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Question1" />
       </list>
     </recent_temporary>
   </component>
@@ -1035,7 +1096,19 @@
       <workItem from="1528185225459" duration="51207000" />
       <workItem from="1531049428067" duration="486000" />
       <workItem from="1531145527501" duration="6198000" />
-      <workItem from="1533468300538" duration="12938000" />
+      <workItem from="1533468300538" duration="14448000" />
+      <workItem from="1534259347588" duration="15655000" />
+      <workItem from="1534767327943" duration="17041000" />
+      <workItem from="1535771500556" duration="38604000" />
+      <workItem from="1536975657937" duration="11801000" />
+      <workItem from="1537967726822" duration="1066000" />
+      <workItem from="1538987821328" duration="3536000" />
+      <workItem from="1542873611332" duration="824000" />
+      <workItem from="1544065555078" duration="129000" />
+      <workItem from="1550311913371" duration="1184000" />
+      <workItem from="1555292914752" duration="135000" />
+      <workItem from="1559631192312" duration="1107000" />
+      <workItem from="1561431973856" duration="715000" />
     </task>
     <servers />
   </component>
@@ -1048,7 +1121,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="873120000" />
+    <option name="totallyTimeSpent" value="966427000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1065,29 +1138,29 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27982953" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21728595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17447495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2599432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4090909" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24573864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1167,8 +1240,38 @@
           <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/pingduoduo/Question4.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/TMD/Question1.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/TMD/Question1.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/TMD/Question1.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzhi_offer/TMD/Question1.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="42" />
+      <option name="time" value="56" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1177,391 +1280,375 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/ComplexListClone.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/Meituan/Question2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37721893">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/PriorityBlockingQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/Meituan/Question1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/DelayQueue.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.333333">
+          <caret line="549" column="36" selection-start-line="549" selection-start-column="36" selection-end-line="549" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+          <caret line="398" column="25" selection-start-line="398" selection-start-column="25" selection-end-line="398" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/wangyi/Question1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="821" column="21" selection-start-line="821" selection-start-column="21" selection-end-line="821" selection-end-column="21" />
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/JD/Question1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="446" column="25" selection-start-line="446" selection-start-column="25" selection-end-line="446" selection-end-column="25" />
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/BlockingQueue.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+          <caret line="937" column="29" selection-start-line="937" selection-start-column="29" selection-end-line="937" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.443787">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/MaxValueInWindow.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/CommonNodeInTwoList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/MaxValueGift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/SpaceReplace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/PatternMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methd_of_programing/string/StringPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/NumberOfNumberStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/NumberToString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/StringReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/StringOfNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3325893">
-          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/CharacterData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20089285">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/MinimumInRotationArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.234375">
-          <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/MorseCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/HH1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.8839285">
-          <caret line="148" column="43" selection-start-line="148" selection-start-column="43" selection-end-line="148" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/HH2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50223213">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/JianShengzi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.171875">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3313253">
-          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3313253">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.1459227">
-          <caret line="268" column="23" selection-start-line="268" selection-start-column="23" selection-end-line="268" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/methd_of_programing/niuke/BiggerThanPro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="5667" column="26" selection-start-line="5667" selection-start-column="26" selection-end-line="5667" selection-end-column="26" />
-          <folding>
-            <element signature="e#197464#197465#0" expanded="false" />
-            <element signature="e#197503#197504#0" expanded="false" />
-            <element signature="e#198787#198788#0" expanded="false" />
-            <element signature="e#198862#198863#0" expanded="false" />
-          </folding>
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/methd_of_programing/string/StringToInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42035398">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/SearchNumberInMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding />
+          <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022123894">
-          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
-          <folding />
+        <state vertical-scroll-proportion="0.5964215">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/LongestStrNoRepeatedChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022123894">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/methd_of_programing/string/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022123894">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38053098">
-          <caret line="6290" column="26" selection-start-line="6290" selection-start-column="26" selection-end-line="6290" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022123894">
-          <caret line="1966" column="28" selection-start-line="1966" selection-start-column="28" selection-end-line="1966" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022123894">
-          <caret line="974" column="28" selection-start-line="974" selection-start-column="28" selection-end-line="974" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/AbstractSequentialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022123894">
-          <caret line="68" column="61" selection-start-line="68" selection-start-column="61" selection-end-line="68" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/RepeatedNumberInArray.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/OneShowTimes.java">
+    <entry file="file://$PROJECT_DIR$/src/test/SingletonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47713718">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ShiftOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding />
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/OnlyOneRepeated.java">
+    <entry file="file://$PROJECT_DIR$/src/test/shift_logical_operation/BitOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+          <caret line="221" column="15" selection-start-line="221" selection-start-column="15" selection-end-line="221" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/PrintNumberFrom1ToN.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/MirrorBinary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-          <folding />
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/XunLei/Question1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33194155">
-          <caret line="471" column="26" selection-start-line="471" selection-start-column="26" selection-end-line="471" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33194155">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/XunLei/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="50" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/methd_of_programing/string/StringPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ValidParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/SelectSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/GenerateParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/AIQIYI/Question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/Tencent/Question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/Tencent/Question3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/methd_of_programing/array/TopK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/methd_of_programing/array/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.015904572">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/methd_of_programing/array/MoneyChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/XIAOMI/Question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="566" column="23" selection-start-line="566" selection-start-column="23" selection-end-line="566" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/XunLei/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#432#440#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/reflect/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.185803">
-          <caret line="58" column="59" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4473161">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/SimulatorState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3280318">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/beike/Question3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44378698">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/beike/Question1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34237996">
-          <caret line="424" column="27" selection-start-line="424" selection-start-column="22" selection-end-line="424" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.33284023">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/TMD/Question1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3318584">
-          <caret line="332" column="19" selection-start-line="332" selection-start-column="19" selection-end-line="332" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.48672566">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/Wangyi.java">
+    <entry file="file://$PROJECT_DIR$/src/HUANJU/Question1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4676409">
-          <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/AIQIYI/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/DIANXIN/Question3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi_offer/JD/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/methd_of_programing/array/JosephRemoveM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30088496">
+          <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
           <folding />
         </state>
       </provider>

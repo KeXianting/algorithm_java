@@ -46,9 +46,9 @@ public class QuickSort {
 		}
 		int prio = num[left + (right - left) / 2]; //基准元素, 中间位置, 可以是第一个或者最后一个
 		while(left<=right){
-			while (num[left] > prio)
+			while (num[left] < prio)
 				left++; //如果比基准元素小的位置不动
-			while (num[right] < prio)
+			while (num[right] > prio)
 				right--; //如果比基准元素大的位置不动
 			if (left<=right) { //如果有左边的元素大于右边的元素, 则进行交换
 				swap(num, left, right);

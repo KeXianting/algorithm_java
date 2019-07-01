@@ -12,8 +12,8 @@ public class StringToInt {
     public static void main(String[] args){
 
 
-        System.out.println(Runtime.getRuntime().availableProcessors());
-        System.out.println(Runtime.getRuntime().maxMemory());
+        //System.out.println(Runtime.getRuntime().availableProcessors());
+        //System.out.println(Runtime.getRuntime().maxMemory());
 //        try {
 //            //System.out.println(2+('1'-'0'));
 //            //int a = strToIntMethodOne("12b3a4");
